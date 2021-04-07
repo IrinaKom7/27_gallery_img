@@ -1,0 +1,51 @@
+.all_page {
+    margin: 0 auto;
+    padding: 0 !important;
+    box-sizing: border-box;
+    font-size: 1rem;
+    max-width: 1920px;
+    min-width: 320px;
+    width: 100%;
+    height: 100%;
+    background-image: url(fon.jpg);    
+}
+
+.text_h1 {
+    /*color: rgb(0, 128, 128);*/
+    text-shadow: 1px 1px 1px #000;
+}
+
+a:hover { 
+    text-decoration: none; 
+    color: rgb(0, 128, 128);
+}
+
+.section header {
+    background-image: url(oblaka.jpg);
+    padding-right: 35px;
+    padding-top: 12px;
+    height: 60px;  
+}
+
+.registration {
+    margin-left: 10px; 
+}
+
+.footer {
+    background-image: url(oblaka.jpg);
+    margin-top: 2rem;
+    margin-bottom: 20pt;
+    padding: 0 auto;
+    height: 60px;
+}
+
+
+.view {
+    padding-bottom: 40px;
+}
+
+.open_img, h2{
+    text-align: center;
+}
+
+
